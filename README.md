@@ -58,3 +58,4 @@ music-player/
 
 - GitHub: [luvpatel016](https://github.com/luvpatel016)
 - Email: 1501lpatel@gmail.com
+- Linkedin: https://linkedin.com/in/luv-patel-395267299
