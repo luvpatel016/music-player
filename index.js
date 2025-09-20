@@ -32,30 +32,6 @@ const songs = [
         artist: 'Far Caspian',
     },
     {
-        path: '5.mp3',
-        displayName: 'Meet The Grahams',
-        cover: '5.jpg',
-        artist: 'Kendrick Lamar',
-    },
-    {
-        path: '6.mp3',
-        displayName: 'Ayala (outro)',
-        cover: '6.jpg',
-        artist: 'XXXTENTACION',
-    },
-    {
-        path: '7.mp3',
-        displayName: 'True Love',
-        cover: '7.jpg',
-        artist: 'Kanye West ft. XXXTENTACION'
-    },
-    {
-        path: '8.mp3',
-        displayName: 'Mahabharat Krishna Flute',
-        cover: '8.jpg.webp',
-        artist: 'Krishna | Bhagavad Gita'
-    },
-    {
         path: '9.mp3',
         displayName: 'I Was All Over Her',
         cover: '9.jpg',
@@ -66,12 +42,6 @@ const songs = [
         displayName: 'New Flesh',
         cover: '10.jpeg',
         artist: 'Current Joys'
-    },
-    {
-        path: '11.mp3',
-        displayName: 'I don\'t even speak spanish lol',
-        cover: '11.jpg',
-        artist: 'XXXTENTACION'
     }
 ];
 
